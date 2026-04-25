@@ -1,0 +1,1 @@
+import React from 'react'; export default function Tours(){ return (<div><h2 className='text-2xl font-semibold mb-4'>Tours</h2><p className='text-gray-600'>Historic guide-led tours will be shown here.</p></div>) }
